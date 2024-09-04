@@ -1,4 +1,4 @@
-package com.tnsif.day7;
+package com.tnsif.day7.polymorphism;
 
 public class MethodOverloadingExample {
     public int add(int a, int b) {
